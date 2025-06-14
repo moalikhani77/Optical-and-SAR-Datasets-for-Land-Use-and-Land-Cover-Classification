@@ -5,11 +5,6 @@ This repository provides two co-registered and labeled datasets constructed from
   <img src="Samples.png" width="1000"/>
 </p>
 
-## 📥 Download
-
-- 🔗 [Download Optical Dataset (GeoTIFF)](https://drive.google.com/file/d/1BnE_hLPZFzGatTy_Ym_Cuc40NytcMLcz/view?usp=sharing)
-- 🔗 [Download SAR Dataset (GeoTIFF)](https://drive.google.com/file/d/1iMjkdQA4_aiO_rdQUBCWB2Blb648yOR7/view?usp=sharing)
-
 ## 📂 Dataset Structure
 
 Each dataset includes:
@@ -25,3 +20,9 @@ Each image patch file is named and organized by class for easy access.
 - Sentinel-2 (Optical) — 12 spectral bands  
 - Sentinel-1 (SAR) — VV and VH polarizations from ascending & descending orbits  
 - All patches are spatially co-registered
+
+
+## 📥 Download
+
+- 🔗 [Download Optical Dataset (GeoTIFF)](https://drive.google.com/file/d/1BnE_hLPZFzGatTy_Ym_Cuc40NytcMLcz/view?usp=sharing)
+- 🔗 [Download SAR Dataset (GeoTIFF)](https://drive.google.com/file/d/1iMjkdQA4_aiO_rdQUBCWB2Blb648yOR7/view?usp=sharing)
