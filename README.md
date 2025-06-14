@@ -7,8 +7,6 @@ This repository provides two co-registered and labeled datasets constructed from
 - 🔗 [Download Optical Dataset (GeoTIFF)](https://drive.google.com/file/d/1BnE_hLPZFzGatTy_Ym_Cuc40NytcMLcz/view?usp=sharing)
 - 🔗 [Download SAR Dataset (GeoTIFF)](https://drive.google.com/file/d/1iMjkdQA4_aiO_rdQUBCWB2Blb648yOR7/view?usp=sharing)
 
-> *Note: Replace the links above with actual file locations (e.g., Google Drive, Zenodo, or Hugging Face).*
-
 ## 📂 Dataset Structure
 
 Each dataset includes:
