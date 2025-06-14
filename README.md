@@ -1,7 +1,9 @@
 # Optical and SAR  Datasets for Land Use and Land Cover Classification 
 
 This repository provides two co-registered and labeled datasets constructed from Sentinel-1 SAR and Sentinel-2 optical imagery for patch-level land use and land cover (LULC) classification.
-
+<p align="center">
+  <img src="images/Samples.png" width="600"/>
+</p>
 ## 📥 Download
 
 - 🔗 [Download Optical Dataset (GeoTIFF)](https://drive.google.com/file/d/1BnE_hLPZFzGatTy_Ym_Cuc40NytcMLcz/view?usp=sharing)
