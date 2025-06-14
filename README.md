@@ -1,6 +1,5 @@
 # Optical and SAR  Datasets for Land Use and Land Cover Classification 
-
-This repository provides two co-registered and labeled datasets constructed from Sentinel-1 SAR and Sentinel-2 optical imagery for patch-level land use and land cover (LULC) classification. These datasets are suitable for training and validating machine learning and deep learning models, particularly convolutional neural networks (CNNs), in remote sensing-based classification tasks.
+This repository provides two co-registered and labeled datasets constructed from Sentinel-1 SAR and Sentinel-2 optical imagery acquired over multiple regions of Iran for patch-level land use and land cover (LULC) classification. These datasets are suitable for training and validating machine learning and deep learning models, particularly convolutional neural networks (CNNs), in remote sensing-based classification tasks.
 <p align="center">
   <img src="Samples.png" width="1000"/>
 </p>
