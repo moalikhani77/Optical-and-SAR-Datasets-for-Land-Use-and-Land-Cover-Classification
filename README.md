@@ -2,7 +2,7 @@
 
 This repository provides two co-registered and labeled datasets constructed from Sentinel-1 SAR and Sentinel-2 optical imagery for patch-level land use and land cover (LULC) classification.
 <p align="center">
-  <img src="Samples.png" width="800"/>
+  <img src="Samples.png" width="1000"/>
 </p>
 ## 📥 Download
 
